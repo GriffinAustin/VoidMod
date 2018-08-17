@@ -1,0 +1,18 @@
+
+//Items
+item.void_wand.name=Void Wand
+item.void_dust.name=Void Dust
+item.void_ingot.name=Void Ingot
+
+//Blocks
+tile.void_prism_block.name=Void Prism
+tile.void_essence_ore.name=Void Essence
+
+//Tools
+item.void_sword.name=Void Blade
+item.void_axe.name=Death's Scythe
+item.void_pickaxe.name=Underclaw
+item.void_shovel.name=Gravedigger
+
+//Creative Tab
+itemGroup.tab_void=Void Mod

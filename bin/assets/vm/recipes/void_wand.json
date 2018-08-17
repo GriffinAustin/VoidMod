@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I",
+        "I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "vm:void_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vm:void_wand",
+        "count": 1
+    }
+}

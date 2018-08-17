@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "vm:blocks/void_prism_block"
+   }
+}

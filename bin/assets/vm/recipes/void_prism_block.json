@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "vm:void_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vm:void_prism_block",
+        "count": 1
+    }
+}

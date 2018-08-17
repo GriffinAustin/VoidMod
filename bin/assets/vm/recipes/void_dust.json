@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "vm:void_prism_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "vm:void_dust",
+        "count": 9
+    }
+}

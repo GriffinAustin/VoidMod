@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vm",
+  "name": "VoidMod",
+  "description": "Adds void ore, void prism, and void tools.",
+  "version": "1.0",
+  "mcversion": "1.13",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["crugal"],
+  "credits": "crugal",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

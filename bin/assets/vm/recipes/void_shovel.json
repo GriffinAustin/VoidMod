@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " W ",
+        " W "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "vm:void_ingot"
+        },
+        "W":
+        {
+            "item": "vm:void_wand"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vm:void_shovel",
+        "count": 1
+    }
+}

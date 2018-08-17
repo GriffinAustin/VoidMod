@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "vm:void_prism_block" }
+    }
+}
